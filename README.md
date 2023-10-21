@@ -3,7 +3,7 @@
 
 - 👨‍🎓 I’m currently pursuing **M.S. in Applied Data Science @ USC**
 
-- 🌱 I’m currently learning **data management and TensorFlow**
+- 🌱 I’m currently learning **data management, PyTorch and LLM applications**
 
 - 👨‍💻 All of my projects are available at [www.datascienceportfol.io/kohtaasakura](www.datascienceportfol.io/kohtaasakura)
 
