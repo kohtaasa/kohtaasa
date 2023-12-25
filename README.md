@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **data management, PyTorch and LLM applications**
 
-- 👨‍💻 All of my projects are available at [www.datascienceportfol.io/kohtaasakura](www.datascienceportfol.io/kohtaasakura)
-
 - 💬 Interested in **application of causal inference**
 
 <h3 align="left">Connect with me:</h3>
