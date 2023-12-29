@@ -3,7 +3,7 @@
 
 - 👨‍🎓 I’m currently pursuing **M.S. in Applied Data Science @ USC**
 
-- 🌱 I’m currently learning **data management, PyTorch and LLM applications**
+- 🌱 I’m currently learning **Explainable AI, PyTorch and LLM applications**
 
 - 💬 Interested in **application of causal inference**
 
