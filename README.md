@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Explainable AI, PyTorch and LLM applications**
 
-- 💬 Interested in **application of causal inference**
+- 💬 Interested in **application of causal inference and quantitative finance**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
